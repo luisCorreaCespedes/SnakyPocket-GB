@@ -1,0 +1,5 @@
+*.sav
+*.asm
+*.ihx
+*.o
+*.sym
