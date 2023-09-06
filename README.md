@@ -1,6 +1,6 @@
 # SNAKY POCKET GB
 
-Snaky Pocket is a Game Boy classic snake game game developed with GBDK-2020. Play with Snaky eating as much fruit as you can to beat your record. You can select between two style modes: Classic (like the Nokia game) and Redux (small remake).
+Snaky Pocket is a Game Boy classic snake game developed with GBDK-2020. Play with Snaky eating as much fruit as you can to beat your record. You can select between two style modes: Classic (like the Nokia game) and Redux (small remake).
 
 ## Compile 🔧
 
